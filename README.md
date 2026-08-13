@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Omkar1807-cell/leetcode/tree/master/0414-third-maximum-number) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Omkar1807-cell/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
