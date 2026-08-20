@@ -8,6 +8,7 @@
 | [0217-contains-duplicate](https://github.com/Omkar1807-cell/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar1807-cell/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Omkar1807-cell/leetcode/tree/master/0414-third-maximum-number) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Omkar1807-cell/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar1807-cell/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Omkar1807-cell/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
