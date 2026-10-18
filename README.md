@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Omkar1807-cell/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Omkar1807-cell/leetcode/tree/master/0009-palindrome-number) |
 ## Two Pointers
 |  |
