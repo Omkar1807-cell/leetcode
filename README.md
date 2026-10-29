@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Omkar1807-cell/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Omkar1807-cell/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Omkar1807-cell/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar1807-cell/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Omkar1807-cell/leetcode/tree/master/0414-third-maximum-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Omkar1807-cell/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Omkar1807-cell/leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Omkar1807-cell/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Omkar1807-cell/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar1807-cell/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
